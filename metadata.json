@@ -1,0 +1,5 @@
+{
+  "name": "FortuneApple AI Predictor",
+  "description": "A high-precision AI prediction tool for the Apple of Fortune game, utilizing Gemini 2.5 Flash for path probability analysis.",
+  "requestFramePermissions": []
+}
